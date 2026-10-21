@@ -49,7 +49,7 @@ Follow "Paired Brackets" and "Monotonic Indentation".
 
 ## Objects
 
-Honor Elegant Objects and SOLID (single, open, Liskov, interface, dependency).
+Honor SOLID (single, open, Liskov, interface, dependency).
 Follow DDD (domain-driven design) and YAGNI (you arent gonna need it).
 Apply SRP (single-responsibility) and DRY (dont repeat yourself).
 Favor failing immediately over failing silently.
